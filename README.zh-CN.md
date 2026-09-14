@@ -22,7 +22,7 @@ teamai init https://github.com/<你的-org>/<你的-repo>
 
 按上游来源分命名空间存放（详见下方「来源与许可」）：
 
-- **`skills/ecc/`**（后端内容型）：`backend-patterns`、`api-design`、
+- **`skills/common/`**（后端内容型）：`backend-patterns`、`api-design`、
   `database-migrations`、`error-handling`、`tdd-workflow`、`security-review`。
 - **`skills/mattpocock/`**（工程方法型）：`tdd`、`research`、`domain-modeling`、
   `grill-me` + `grilling`（配套：反复追问、逐个敲定方案决策）。
@@ -47,7 +47,7 @@ teamai init https://github.com/<你的-org>/<你的-repo>
 
 | 命名空间 | 上游 | 许可 |
 |---|---|---|
-| `skills/ecc/`、`rules/common/`、`agents/` | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ MIT |
+| `skills/common/`、`rules/common/`、`agents/` | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ MIT |
 | `skills/mattpocock/` | [mattpocock/skills](https://github.com/mattpocock/skills) | ✅ MIT |
 
 - MIT 许可原文见 [`LICENSE`](./LICENSE)（ECC）及 [`skills/mattpocock/LICENSE`](./skills/mattpocock/LICENSE)。

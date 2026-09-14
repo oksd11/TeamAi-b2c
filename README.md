@@ -22,7 +22,7 @@ teamai init https://github.com/<your-org>/<your-repo>
 
 Organized into namespaces by upstream source (see "Sources & License" below):
 
-- **`skills/ecc/`** (backend content): `backend-patterns`, `api-design`,
+- **`skills/common/`** (backend content): `backend-patterns`, `api-design`,
   `database-migrations`, `error-handling`, `tdd-workflow`, `security-review`.
 - **`skills/mattpocock/`** (engineering methodology): `tdd`, `research`, `domain-modeling`,
   `grill-me` + `grilling` (a pair: relentless questioning to nail down design decisions).
@@ -47,7 +47,7 @@ The content here is adapted from several open-source projects, organized into na
 
 | Namespace | Upstream | License |
 |---|---|---|
-| `skills/ecc/`, `rules/common/`, `agents/` | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ MIT |
+| `skills/common/`, `rules/common/`, `agents/` | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ✅ MIT |
 | `skills/mattpocock/` | [mattpocock/skills](https://github.com/mattpocock/skills) | ✅ MIT |
 
 - Full MIT license text: [`LICENSE`](./LICENSE) (ECC) and [`skills/mattpocock/LICENSE`](./skills/mattpocock/LICENSE).
