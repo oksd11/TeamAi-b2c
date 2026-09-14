@@ -3,12 +3,12 @@ projects:
   - id: my-python-app
     name: MyFirstPythonProject
     resources:
-      skills:    [my-python-app]
+      skills:    [common, my-python-app]
       knowledge: [common, my-python-app]
       learnings: [my-python-app]
   - id: spring-boot-demo
     name: SpringbootDemo
     resources:
-      skills:    [spring-boot-demo]
+      skills:    [common, spring-boot-demo]
       knowledge: [common, spring-boot-demo]
       learnings: [spring-boot-demo]
